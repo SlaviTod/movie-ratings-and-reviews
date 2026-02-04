@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "kdramas",
-    "slug": "kdramas",
+    "name": "movies",
+    "slug": "movies",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "kdramas",
+    "scheme": "movies",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {

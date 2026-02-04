@@ -1,0 +1,785 @@
+{
+  "movieList": [
+    {
+      "id": 1,
+      "title": "My Love from the Star",
+      "synopsis": "An alien who landed on Earth 400 years ago falls in love with a top actress in modern-day Seoul.",
+      "description": "The series blends romantic comedy with science fiction by following an immortal being who has silently observed humanity for centuries while carefully hiding his true identity. Living a quiet, isolated life shaped by loss, history, and emotional restraint, he unexpectedly becomes entangled with a famous actress whose vibrant personality disrupts his carefully controlled existence. Their interactions highlight contrasts between immortality and fleeting human life, fame and anonymity, logic and emotion, while exploring how love challenges long-held beliefs about detachment and destiny in a rapidly changing modern world.",
+      "year": 2013,
+      "seasons": 1,
+      "episodes": 21,
+      "genre": [
+        "Romance",
+        "Fantasy",
+        "Comedy"
+      ],
+      "starring": [
+        "Kim Soo-hyun",
+        "Jun Ji-hyun"
+      ],
+      "budget": 25000000000,
+      "budgetUsd": 23200000,
+      "image": "https://asianwiki.com/images/6/61/You_Who_Came_From_the_Stars-p1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Goblin",
+      "synopsis": "An immortal goblin seeks a human bride to end his cursed life.",
+      "description": "Set across both modern Korea and mythological realms, the story centers on an immortal being burdened by centuries of regret, loss, and unfulfilled purpose. His existence is defined by watching generations pass while he remains unchanged, disconnected from ordinary human experience. The narrative weaves romance, humor, and folklore as fate repeatedly pulls him into the lives of humans who challenge his understanding of love, sacrifice, and redemption. The series explores how immortality can become a curse rather than a gift and how meaningful connections can redefine destiny.",
+      "year": 2016,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Fantasy",
+        "Romance"
+      ],
+      "starring": [
+        "Gong Yoo",
+        "Kim Go-eun"
+      ],
+      "budget": 30000000000,
+      "budgetUsd": 24860000,
+      "image": "https://asianwiki.com/images/b/b2/Goblin-p04.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Strong Woman Do Bong Soon",
+      "synopsis": "A woman with superhuman strength becomes entangled in love and crime.",
+      "description": "This romantic comedy presents a seemingly ordinary young woman gifted with extraordinary physical strength inherited through generations. While trying to live a normal life, she is drawn into unusual circumstances involving wealth, danger, and unexpected romance. The show balances exaggerated humor with character-driven storytelling, using fantasy elements to subvert traditional gender roles. Beneath the comedy lies a narrative about self-acceptance, responsibility, and how embracing one's uniqueness can lead to personal growth and meaningful relationships.",
+      "year": 2017,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy",
+        "Fantasy"
+      ],
+      "starring": [
+        "Park Bo-young",
+        "Park Hyung-sik"
+      ],
+      "budget": 18000000000,
+      "budgetUsd": 16822000,
+      "image": "https://asianwiki.com/images/f/f4/Strong_Woman_Do_Bong-Soon-p2.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Hotel Del Luna",
+      "synopsis": "A mystical hotel serves ghosts with unresolved grudges.",
+      "description": "The story unfolds in a visually rich supernatural setting where a hidden hotel caters exclusively to spirits unable to move on from their past lives. Managed by a deeply flawed and emotionally guarded woman bound by a centuries-old curse, the hotel becomes a crossroads between the living and the dead. Through episodic encounters with different souls, the series blends fantasy, romance, and introspection, exploring themes of guilt, forgiveness, attachment, and the emotional weight of unfinished business.",
+      "year": 2019,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Fantasy",
+        "Romance"
+      ],
+      "starring": [
+        "IU",
+        "Yeo Jin-goo"
+      ],
+      "budget": 35000000000,
+      "budgetUsd": 30277000,
+      "image": "https://asianwiki.com/images/4/4c/Hotel_Del_Luna-GP.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Legend of the Blue Sea",
+      "synopsis": "A mermaid follows her reincarnated lover to modern Seoul.",
+      "description": "Inspired by folklore and historical romance, the series connects past and present through the bond between a mythical being and a human whose lives echo across time. Set partly in modern Seoul, the narrative blends comedy, fantasy, and romance while exploring cultural displacement, identity, and memory. As ancient legends collide with contemporary society, the show highlights how love transcends eras while adapting to changing worlds.",
+      "year": 2016,
+      "seasons": 1,
+      "episodes": 20,
+      "genre": [
+        "Fantasy",
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Lee Min-ho",
+        "Jun Ji-hyun"
+      ],
+      "budget": 40000000000,
+      "budgetUsd": 33150000,
+      "image": "https://i.mydramalist.com/BjZj6f.jpg"
+    },
+    {
+      "id": 6,
+      "title": "While You Were Sleeping",
+      "synopsis": "Three people foresee future events through dreams.",
+      "description": "A romance driven by prophetic dreams.",
+      "year": 2017,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romance",
+        "Fantasy"
+      ],
+      "starring": [
+        "Lee Jong-suk",
+        "Bae Suzy"
+      ],
+      "budget": 22000000000,
+      "budgetUsd": 20560000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/86/While_You_Were_Sleeping_%282017_TV_series%29.jpg"
+    },
+    {
+      "id": 7,
+      "title": "W: Two Worlds",
+      "synopsis": "A woman enters the world of a webtoon.",
+      "description": "A romance between reality and fiction.",
+      "year": 2016,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Fantasy",
+        "Romance"
+      ],
+      "starring": [
+        "Lee Jong-suk",
+        "Han Hyo-joo"
+      ],
+      "budget": 28000000000,
+      "budgetUsd": 23200000,
+      "image": "https://i.mydramalist.com/6wjE0_4f.jpg"
+    },
+    {
+      "id": 8,
+      "title": "My Roommate Is a Gumiho",
+      "synopsis": "A student accidentally swallows a magical fox bead.",
+      "description": "A rom-com involving mythical folklore.",
+      "year": 2021,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Fantasy",
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Jang Ki-yong",
+        "Lee Hye-ri"
+      ],
+      "budget": 20000000000,
+      "budgetUsd": 16900000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/My_Roommate_Is_a_Gumiho.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Alchemy of Souls",
+      "synopsis": "A sorceress trapped in a weak body meets a noble warrior.",
+      "description": "A fantasy epic with romance.",
+      "year": 2022,
+      "seasons": 2,
+      "episodes": 30,
+      "genre": [
+        "Fantasy",
+        "Romance"
+      ],
+      "starring": [
+        "Lee Jae-wook",
+        "Jung So-min"
+      ],
+      "budget": 45000000000,
+      "budgetUsd": 35530000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/Alchemy_of_Souls.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Doom at Your Service",
+      "synopsis": "A woman makes a contract with a supernatural being.",
+      "description": "A romance with a divine twist.",
+      "year": 2021,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Fantasy",
+        "Romance"
+      ],
+      "starring": [
+        "Park Bo-young",
+        "Seo In-guk"
+      ],
+      "budget": 26000000000,
+      "budgetUsd": 21970000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/32/Doom_at_Your_Service.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Extraordinary You",
+      "synopsis": "A girl discovers she lives inside a comic book.",
+      "description": "A meta romantic fantasy.",
+      "year": 2019,
+      "seasons": 1,
+      "episodes": 32,
+      "genre": [
+        "Fantasy",
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Kim Hye-yoon",
+        "Rowoon"
+      ],
+      "budget": 17000000000,
+      "budgetUsd": 14706000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/43/Extraordinary_You.jpg"
+    },
+    {
+      "id": 12,
+      "title": "The King: Eternal Monarch",
+      "synopsis": "Two parallel worlds collide through romance.",
+      "description": "A love story across dimensions.",
+      "year": 2020,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Fantasy",
+        "Romance"
+      ],
+      "starring": [
+        "Lee Min-ho",
+        "Kim Go-eun"
+      ],
+      "budget": 50000000000,
+      "budgetUsd": 46020000,
+      "image": "https://scontent.fsof9-1.fna.fbcdn.net/v/t1.6435-9/94580628_117965763222886_3232297304983601152_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Xg5xs4EEgcYQ7kNvwEWCTY7&_nc_oc=Admokpb_U34sES_BLWvtclPjNQ5H0QZR_oZTd7va-lDcWf3B8ghjz13EMPkyhcZ2Xxc&_nc_zt=23&_nc_ht=scontent.fsof9-1.fna&_nc_gid=z7A4_o8MDCNL3jubbLstDg&oh=00_AfoeL8tOSVOHuZyjKCS7wlHfADsYMcQknchzXcXWaX-T8Q&oe=698F2AB6"
+    },
+    {
+      "id": 13,
+      "title": "Love Alarm",
+      "synopsis": "An app reveals romantic feelings nearby.",
+      "description": "A tech-based romantic fantasy.",
+      "year": 2019,
+      "seasons": 2,
+      "episodes": 14,
+      "genre": [
+        "Romance",
+        "Fantasy"
+      ],
+      "starring": [
+        "Kim So-hyun",
+        "Song Kang"
+      ],
+      "budget": 15000000000,
+      "budgetUsd": 12976000,
+      "image": "https://asianwiki.com/images/3/3c/Love_Alarm-Netflix-P1.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Bride of the Water God",
+      "synopsis": "A water god descends to the human world.",
+      "description": "A romance between deity and human.",
+      "year": 2017,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Fantasy",
+        "Romance"
+      ],
+      "starring": [
+        "Nam Joo-hyuk",
+        "Shin Se-kyung"
+      ],
+      "budget": 23000000000,
+      "budgetUsd": 21495000,
+      "image": "https://asianwiki.com/images/6/65/Bride_of_the_Water_God_2017-CP.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Arthdal Chronicles",
+      "synopsis": "Power struggles unfold in a mythical land.",
+      "description": "A large-scale fantasy saga.",
+      "year": 2019,
+      "seasons": 2,
+      "episodes": 36,
+      "genre": [
+        "Fantasy",
+        "Drama"
+      ],
+      "starring": [
+        "Song Joong-ki",
+        "Kim Ji-won"
+      ],
+      "budget": 60000000000,
+      "budgetUsd": 51813000,
+      "image": "https://asianwiki.com/images/9/90/Arthdal_Chronicles-P01.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Angel's Last Mission: Love",
+      "synopsis": "An angel helps a ballerina find love.",
+      "description": "A romantic fantasy with celestial themes.",
+      "year": 2019,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Fantasy",
+        "Romance"
+      ],
+      "starring": [
+        "Shin Hye-sun",
+        "Kim Myung-soo"
+      ],
+      "budget": 21000000000,
+      "budgetUsd": 18163000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/Angel_s_Last_Mission%2C_Love.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Mystic Pop-Up Bar",
+      "synopsis": "A mysterious bar helps people heal emotional wounds.",
+      "description": "A fantasy comedy with episodic stories.",
+      "year": 2020,
+      "seasons": 1,
+      "episodes": 12,
+      "genre": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "starring": [
+        "Hwang Jung-eum",
+        "Yook Sung-jae"
+      ],
+      "budget": 14000000000,
+      "budgetUsd": 12890000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Mystic_Pop-up_Bar.jpg"
+    },
+    {
+      "id": 18,
+      "title": "A Korean Odyssey",
+      "synopsis": "Gods and demons clash in modern Seoul.",
+      "description": "A modern fantasy rom-com.",
+      "year": 2017,
+      "seasons": 1,
+      "episodes": 20,
+      "genre": [
+        "Fantasy",
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Lee Seung-gi",
+        "Oh Yeon-seo"
+      ],
+      "budget": 27000000000,
+      "budgetUsd": 25234000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/A_Korean_Odyssey_%28Hwayugi%29.jpg"
+    },
+    {
+      "id": 19,
+      "title": "See You in My 19th Life",
+      "synopsis": "A woman remembers all her past lives.",
+      "description": "A reincarnation-based romance.",
+      "year": 2023,
+      "seasons": 1,
+      "episodes": 12,
+      "genre": [
+        "Fantasy",
+        "Romance"
+      ],
+      "starring": [
+        "Shin Hye-sun",
+        "Ahn Bo-hyun"
+      ],
+      "budget": 24000000000,
+      "budgetUsd": 18300000,
+      "image": "https://asianwiki.com/images/b/b1/See_You_in_My_19th_Life-p2.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Tomorrow",
+      "synopsis": "Grim reapers try to prevent suicides.",
+      "description": "Set within a supernatural bureaucracy operating alongside the human world, the series follows grim reapers tasked not with collecting souls, but with preventing tragic endings. Each case reflects different social struggles, emotional wounds, and moral dilemmas. Blending fantasy elements with grounded human stories, the narrative emphasizes empathy, responsibility, and the impact of small interventions on individual lives.",
+      "year": 2022,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Fantasy",
+        "Drama"
+      ],
+      "starring": [
+        "Kim Hee-sun",
+        "Rowoon"
+      ],
+      "budget": 32000000000,
+      "budgetUsd": 25260000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/3a/Tomorrow_%282022%29.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Business Proposal",
+      "synopsis": "A woman goes on a blind date pretending to be her friend, only to meet her company's CEO.",
+      "description": "A fast-paced office romantic comedy driven by misunderstandings, exaggerated corporate culture, and lighthearted character growth.",
+      "year": 2022,
+      "seasons": 1,
+      "episodes": 12,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Ahn Hyo-seop",
+        "Kim Se-jeong"
+      ],
+      "budget": 18000000000,
+      "budgetUsd": 14206000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/19/A_Business_Proposal.jpg"
+    },
+    {
+      "id": 22,
+      "title": "What's Wrong with Secretary Kim",
+      "synopsis": "A narcissistic CEO panics when his perfect secretary suddenly resigns.",
+      "description": "A workplace rom-com that humorously explores ego, emotional maturity, and professional dependency.",
+      "year": 2018,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Park Seo-joon",
+        "Park Min-young"
+      ],
+      "budget": 20000000000,
+      "budgetUsd": 17937000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/10/What%27s_Wrong_with_Secretary_Kim.jpg"
+    },
+    {
+      "id": 23,
+      "title": "True Beauty",
+      "synopsis": "A high school girl becomes popular after mastering the art of makeup.",
+      "description": "A youth romantic comedy focusing on identity, insecurity, and self-acceptance through humor and school life.",
+      "year": 2020,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Moon Ga-young",
+        "Cha Eun-woo"
+      ],
+      "budget": 17000000000,
+      "budgetUsd": 15650000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/76/True_Beauty_TV_series_poster.jpg"
+    },
+    {
+      "id": 24,
+      "title": "My ID Is Gangnam Beauty",
+      "synopsis": "A college student navigates love and self-acceptance after cosmetic surgery.",
+      "description": "A campus-based romantic comedy addressing beauty standards and personal growth with a light tone.",
+      "year": 2018,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Im Soo-hyang",
+        "Cha Eun-woo"
+      ],
+      "budget": 16000000000,
+      "budgetUsd": 14350000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e5/My_ID_is_Gangnam_Beauty.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Welcome to Waikiki",
+      "synopsis": "Three struggling friends run a guesthouse while chasing their dreams.",
+      "description": "A slapstick-heavy sitcom built on chaotic friendships, financial struggles, and absurd everyday events.",
+      "year": 2018,
+      "seasons": 2,
+      "episodes": 40,
+      "genre": [
+        "Comedy"
+      ],
+      "starring": [
+        "Kim Jung-hyun",
+        "Lee Yi-kyung"
+      ],
+      "budget": 15000000000,
+      "budgetUsd": 13453000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Laughter_in_Waikiki.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Her Private Life",
+      "synopsis": "A professional curator secretly lives as a passionate K-pop fangirl.",
+      "description": "A mature romantic comedy balancing professional identity with private passions and fandom culture.",
+      "year": 2019,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Park Min-young",
+        "Kim Jae-wook"
+      ],
+      "budget": 19000000000,
+      "budgetUsd": 16436000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/Her_Private_Life.jpeg"
+    },
+    {
+      "id": 27,
+      "title": "Touch Your Heart",
+      "synopsis": "A top actress works as a secretary to prepare for a drama role.",
+      "description": "A warm, low-conflict rom-com emphasizing workplace learning and emotional sincerity.",
+      "year": 2019,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Lee Dong-wook",
+        "Yoo In-na"
+      ],
+      "budget": 17000000000,
+      "budgetUsd": 14706000,
+      "image": "https://asianwiki.com/images/1/16/Touch_Your_Heart-p0001.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Strong Woman Do Bong Soon",
+      "synopsis": "A super-strong woman gets involved in hilarious workplace and love situations.",
+      "description": "A genre-blending comedy that uses exaggeration and charm to subvert gender expectations.",
+      "year": 2017,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Park Bo-young",
+        "Park Hyung-sik"
+      ],
+      "budget": 18000000000,
+      "budgetUsd": 16822000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/28/StrongWomanDoBong-soon_%28Main_poster%29.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Oh My Venus",
+      "synopsis": "A lawyer teams up with a celebrity trainer to regain her confidence and love.",
+      "description": "A feel-good romantic comedy combining lifestyle change with emotional healing.",
+      "year": 2015,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Shin Min-a",
+        "So Ji-sub"
+      ],
+      "budget": 16000000000,
+      "budgetUsd": 13652000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Oh_My_Venus_%28%EC%98%A4_%EB%A7%88%EC%9D%B4_%EB%B9%84%EB%84%88%EC%8A%A4%29_Promotional_poster.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Fight for My Way",
+      "synopsis": "Four friends chase love and dreams while facing everyday struggles.",
+      "description": "A grounded romantic comedy portraying ambition, friendship, and perseverance.",
+      "year": 2017,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Park Seo-joon",
+        "Kim Ji-won"
+      ],
+      "budget": 17000000000,
+      "budgetUsd": 15888000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Fight_For_My_Way_Poster.jpg"
+    },
+    {
+      "id": 31,
+      "title": "Weightlifting Fairy Kim Bok-joo",
+      "synopsis": "A cheerful weightlifter experiences friendship, love, and campus life.",
+      "description": "A wholesome youth rom-com celebrating sports, self-esteem, and first love.",
+      "year": 2016,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Lee Sung-kyung",
+        "Nam Joo-hyuk"
+      ],
+      "budget": 15000000000,
+      "budgetUsd": 12427000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/Weightlifting_Fairy_Kim_Bok_Joo_Poster.jpg"
+    },
+    {
+      "id": 32,
+      "title": "My Secret Romance",
+      "synopsis": "A one-night encounter leads to an unexpected reunion years later.",
+      "description": "A simple romantic comedy built on coincidence and emotional rediscovery.",
+      "year": 2017,
+      "seasons": 1,
+      "episodes": 13,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Sung Hoon",
+        "Song Ji-eun"
+      ],
+      "budget": 14000000000,
+      "budgetUsd": 13084000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6a/My_secret_romance_p1.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Goong (Princess Hours)",
+      "synopsis": "An ordinary girl enters a royal family through an arranged marriage.",
+      "description": "A fairy-tale style romantic comedy set in an alternate modern monarchy.",
+      "year": 2006,
+      "seasons": 1,
+      "episodes": 24,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Yoon Eun-hye",
+        "Ju Ji-hoon"
+      ],
+      "budget": 12000000000,
+      "budgetUsd": 12917000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/af/GoongCast.jpg"
+    },
+    {
+      "id": 34,
+      "title": "The Sound of Your Heart",
+      "synopsis": "A webtoon artist's daily life turns into absurd comedic situations.",
+      "description": "An episodic slapstick comedy focused on exaggerated family and social chaos.",
+      "year": 2016,
+      "seasons": 1,
+      "episodes": 20,
+      "genre": [
+        "Comedy"
+      ],
+      "starring": [
+        "Lee Kwang-soo",
+        "Jung So-min"
+      ],
+      "budget": 9000000000,
+      "budgetUsd": 7457000,
+      "image": "https://asianwiki.com/images/b/bf/The_Sound_of_Your_Heart_Reboot-p1.jpg"
+    },
+    {
+      "id": 35,
+      "title": "My First First Love",
+      "synopsis": "Young adults live together and experience first love and friendship.",
+      "description": "A soft, character-driven romantic comedy about emotional beginnings.",
+      "year": 2019,
+      "seasons": 2,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Ji Soo",
+        "Jung Chae-yeon"
+      ],
+      "budget": 13000000000,
+      "budgetUsd": 11246000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/61/My_First_First_Love_%282019_poster%29.jpg"
+    },
+    {
+      "id": 36,
+      "title": "Because This Is My First Life",
+      "synopsis": "A landlord and tenant enter a contract marriage for practical reasons.",
+      "description": "A dialogue-rich rom-com examining modern relationships and social expectations.",
+      "year": 2017,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Lee Min-ki",
+        "Jung So-min"
+      ],
+      "budget": 16000000000,
+      "budgetUsd": 14953000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ea/Because_This_is_My_First_Life.jpg"
+    },
+    {
+      "id": 37,
+      "title": "I'm Not a Robot",
+      "synopsis": "A man allergic to humans falls for a woman pretending to be a robot.",
+      "description": "A quirky romantic comedy blending tech concepts with emotional intimacy.",
+      "year": 2017,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Yoo Seung-ho",
+        "Chae Soo-bin"
+      ],
+      "budget": 19000000000,
+      "budgetUsd": 17757000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c5/I%27m_Not_a_Robot-poster.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Love in Contract",
+      "synopsis": "A professional fake wife provides marriage services to single men.",
+      "description": "A modern rom-com exploring transactional relationships and emotional boundaries.",
+      "year": 2022,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Park Min-young",
+        "Go Kyung-pyo"
+      ],
+      "budget": 20000000000,
+      "budgetUsd": 15785000,
+      "image": "https://asianwiki.com/images/4/49/Love_in_Contract-p2.jpg"
+    },
+    {
+      "id": 39,
+      "title": "The Undateables",
+      "synopsis": "A relationship expert who hates love meets a woman obsessed with romance.",
+      "description": "A character-focused romantic comedy built on emotional contrast and growth.",
+      "year": 2018,
+      "seasons": 1,
+      "episodes": 32,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Namgoong Min",
+        "Hwang Jung-eum"
+      ],
+      "budget": 17000000000,
+      "budgetUsd": 15247000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/22/The_Undateables_%28TV_series%29.jpg"
+    },
+    {
+      "id": 40,
+      "title": "She Was Pretty",
+      "synopsis": "Childhood sweethearts reunite, but appearances and identities have changed.",
+      "description": "A classic workplace rom-com dealing with nostalgia, confidence, and second chances.",
+      "year": 2015,
+      "seasons": 1,
+      "episodes": 16,
+      "genre": [
+        "Romantic Comedy"
+      ],
+      "starring": [
+        "Hwang Jung-eum",
+        "Park Seo-joon"
+      ],
+      "budget": 18000000000,
+      "budgetUsd": 15358000,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/04/She_Was_Pretty_Poster.jpg"
+    }
+  ]
+}

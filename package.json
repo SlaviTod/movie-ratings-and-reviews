@@ -1,7 +1,10 @@
 {
-  "name": "kdramas",
+  "name": "movie-ratings-and-reviews",
   "main": "expo-router/entry",
   "version": "1.0.0",
+  "author": {
+    "name": "SlaviTod"
+  },
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
