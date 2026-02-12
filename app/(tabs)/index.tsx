@@ -16,7 +16,7 @@ export default function HomeScreen() {
       headerImage={
         <Image
           source={require('@/assets/images/Alchemy_of_souls_g.png')}
-          style={styles.reactLogo}
+          style={styles.movieImage}
         />
       }>
       <ThemedView style={styles.titleContainer}>
@@ -33,12 +33,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     gap: 8,
   },
-  reactLogo: {
+  movieImage: {
     height: '100%',
     width: '100%',
-    objectFit: 'cover',
-    bottom: 0,
-    left: 0,
-    position: 'absolute',
   },
 });

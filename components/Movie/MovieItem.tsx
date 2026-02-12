@@ -1,5 +1,6 @@
 import { MovieItemProps } from "@/types/Movie";
 import { Image } from 'expo-image';
+import { Link } from "expo-router";
 import { StyleSheet } from "react-native";
 import { ThemedText } from "../themed-text";
 import { ThemedView } from "../themed-view";
@@ -11,22 +12,24 @@ export const MovieItem = ({
 }: MovieItemProps) => {
 
   return (
-    <ThemedView style={styles.mainContainer}>
-      <ThemedView style={styles.imageContainer}>
-        <Image
-          source={movie.image}
-          style={styles.image}
-        />
-      </ThemedView>
+    <Link href={{ pathname: "/modal", params: { movieId: movie.id } }} >
+      <ThemedView style={styles.mainContainer}>
+        <ThemedView style={styles.imageContainer}>
+          <Image
+            source={movie.image}
+            style={styles.image}
+          />
+        </ThemedView>
 
-      <ThemedView style={styles.textContainer}>
-        <ThemedText type="subtitle" style={{marginBottom: 5}}>{movie.title}</ThemedText>
-        <ThemedText type="subtitle">{movie.year}</ThemedText>
-        <ThemedText type="default">{movie.genre.join(', ')}</ThemedText>
-        <ThemedText type="default">{movie.starring.join(', ')}</ThemedText>
-      </ThemedView>
+        <ThemedView style={styles.textContainer}>
+          <ThemedText type="subtitle" style={{ marginBottom: 5 }}>{movie.title}</ThemedText>
+          <ThemedText type="subtitle">{movie.year}</ThemedText>
+          <ThemedText type="default">{movie.genre.join(', ')}</ThemedText>
+          <ThemedText type="default">{movie.starring.join(', ')}</ThemedText>
+        </ThemedView>
 
-    </ThemedView>
+      </ThemedView>
+    </Link>
   );
 }
 
