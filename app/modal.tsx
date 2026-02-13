@@ -1,19 +1,23 @@
+import Ionicons from '@expo/vector-icons/Ionicons';
 import { Image } from 'expo-image';
-import { StyleSheet } from 'react-native';
+import { Pressable, StyleSheet } from 'react-native';
 
 import ParallaxScrollView from '@/components/parallax-scroll-view';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Movie } from '@/types/Movie';
-import { useLocalSearchParams } from 'expo-router';
+import { useLocalSearchParams, useNavigation } from 'expo-router';
 
 const { movieList } = require('../constants/k-dramas-40.json');
 
 export default function ModalScreen() {
 
   const { movieId } = useLocalSearchParams();
+  const navigate = useNavigation();
 
   const movie = movieList.filter((m: Movie) => m.id === Number(movieId))[0];
+
+  const handlePress = () => { navigate.goBack(); }
 
   return (
     <ParallaxScrollView
@@ -25,7 +29,11 @@ export default function ModalScreen() {
         />
       }>
       <ThemedView style={styles.mainContainer}>
-        <ThemedText type="title" style={styles.title}>{movie.title}</ThemedText>
+        <Pressable onPress={handlePress}>
+        <ThemedText type="title" style={styles.title}>
+          <Ionicons size={30} name="arrow-back"/>
+          {movie.title}</ThemedText>
+        </Pressable>
         <ThemedText type="subtitle">{movie.year}</ThemedText>
         <ThemedText type="defaultSemiBold">{movie.genre.join(', ')}</ThemedText>
         <ThemedText type="defaultSemiBold">Starring: {movie.starring.join(', ')}</ThemedText>
